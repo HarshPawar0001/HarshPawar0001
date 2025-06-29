@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh Pawar</h1>
-<p align="center">A passionate Developer from India 🇮🇳</p>
+<p align="center">A passionate Developer</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=HarshPawar0001&label=Profile%20views&color=0e75b6&style=flat" alt="HarshPawar0001" />
