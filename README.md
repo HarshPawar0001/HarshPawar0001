@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Harsh Pawar</h1>
+<h1 align="center">Hi 👋,</h1>
+<!--  I'm Harsh Pawar -->
 <p align="center">A passionate Developer</p>
 
 <p align="center">
